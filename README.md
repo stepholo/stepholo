@@ -37,6 +37,9 @@ Here are some projects I’ve built or contributed to:
 - 🏡 [**Airbnb Clone Project (Ongoing)**](https://github.com/stepholo/airbnb-clone-project)  
   A web application mimicking Airbnb’s core functionality as part of a full-stack learning initiative.
 
+- 🛫 [**ALX Travel Listing Project (Ongoing)**](https://github.com/stepholo/alx_travel_app)
+  A real-world Django application that serves as the foundation for a travel listing platform
+
 > ⚙️ I’m interested in working on projects related to:
 > - Agri-tech platforms for smallholder farmers  
 > - Climate data collection and insights tools  
