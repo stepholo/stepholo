@@ -74,16 +74,14 @@ Tools:       Git | Docker | Postman | VS Code | GitHub Actions
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
   - ✅ Master backend development using Python and C-family languages
 
   - ✅ Build and contribute to open-source projects with social impact
 
-  - 🧠 Earn AWS Developer Associate and Azure Developer Associate certifications
+  - 🧠 Earn AWS Developer Associate
 
   - 🚀 Collaborate on agri-tech and climate-tech software solutions
-
-  - 🌱 Expand into Embedded C and IoT systems to power smarter rural tech
 
 ---
 
