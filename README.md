@@ -14,8 +14,7 @@
 
 ## 🔍 About Me
 
-🎓 I’m currently a learner in the **ALX Software Engineering - ProDev Backend** program.  
-💼 I work at [**Hello Tractor**](https://hellotractor.com/) as a **PAYG Account Manager**, and I’m actively transitioning into a **full-time Backend Software Engineer** role.  
+🎓 I’m have succesfully completed **ALX Software Engineering - ProDev Backend** program from [**ALX Africa**](https://www.alxafrica.com) 
 💡 My tech journey is fueled by a strong desire to **solve real-world problems** that matter—particularly in the areas of:
 
 - 🌾 **Food insecurity**
@@ -51,8 +50,8 @@ Here are some projects I’ve built or contributed to:
 ## 💻 Tech Stack
 
 ```html
-Languages:   Python | C | C++ | Shell | JavaScript  
-Frameworks:  Django | Flask | Node.js  
+Languages:   Python | C | Shell   
+Frameworks:  Django | Flask   
 Databases:   MySQL | PostgreSQL | MongoDB  
 Cloud:       AWS | Azure (in progress)  
 Tools:       Git | Docker | Postman | VS Code | GitHub Actions
