@@ -14,8 +14,8 @@
 
 ## 🔍 About Me
 
-🎓 I’m have succesfully completed **ALX Software Engineering - ProDev Backend** program from [**ALX Africa**](https://www.alxafrica.com) 
-💡 My tech journey is fueled by a strong desire to **solve real-world problems** that matter—particularly in the areas of:
+- 🎓 I’m have succesfully completed **ALX Software Engineering - ProDev Backend** program from [**ALX Africa**](https://www.alxafrica.com)
+- 💡 My tech journey is fueled by a strong desire to **solve real-world problems** that matter—particularly in the areas of:
 
 - 🌾 **Food insecurity**
 - 🌱 **Climate change**
